@@ -1,3 +1,9 @@
 Build SUCCESSFUL
 
 For details see http://emmy.math.rwth-aachen.de:8081/job/Markus_homalg_GitHub/1/
+
+AbelianSystems: cd854e8 renamed Hull* -> Covering* (comply with homalg v2011.07.28)
+
+Versions:
+2011.06.20 which is Alban's version
+2011.07.28 which is Mohamed's version
