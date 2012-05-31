@@ -127,3 +127,8 @@ SCO: 7a970f2 interchange view and display lines for rings
 
 Versions:
  2011.08.10
+
+SCSCP_ForHomalg: da775b6 NeededOtherPackages "SCSCP", ">= 2.0.0"
+
+Versions:
+ 2011.12.11
