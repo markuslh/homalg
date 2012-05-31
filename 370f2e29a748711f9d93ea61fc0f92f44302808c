@@ -49,3 +49,10 @@ Versions:
 2011.09.06 which is Markus' version
 2011.10.05 which is Mohamed's version
 2011.05.05 which is Sebastian's version
+
+GradedRingForHomalg: 284bfd1 fixed the CommonHomalgTableForGradedRingsTools entry InitialMatrix
+
+Versions:
+2011.09.12 which is Markus' version
+2012.03.08 which is Mohamed's version
+2011.05.05 which is Sebastian's version
