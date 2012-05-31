@@ -138,3 +138,8 @@ Sheaves: c51bd4d added examples testing Pullback of sheaves
 Versions:
 2011.08.21 which is Markus' version
 2011.10.05 which is Mohamed's version
+
+SimplicialObjects: 0f6df12 declared IsSimplicialSet(Rep) if unbound (conflicts with current SCO)
+
+Versions:
+ 2011.06.29
