@@ -22,3 +22,8 @@ crypto: 1c3610f - added Michael's example - got rid of the VERSION file (depende
 
 Versions:
  2010.11.05
+
+D-Modules: 05f0bdb declared and installed AssociatedOrderGradedRing and AssociatedOrderGradedModule
+
+Versions:
+ 2012.02.29
