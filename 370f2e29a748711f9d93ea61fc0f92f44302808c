@@ -114,3 +114,11 @@ Orbifolds: 114a2f1 - renamed AddToAhomalgTable -> AppendToAhomalgTable (comply w
 
 Versions:
  2011.04.28
+
+RingsForHomalg: 31e7311 added support for MatrixOfSymbols to the Singular interface
+
+Versions:
+2011.09.12 which is Markus L-H's version
+2011.06.16 which is Markus K's version
+2012.02.29 which is Mohamed's version
+2011.12.13 which is Andreas's version
