@@ -27,3 +27,8 @@ D-Modules: 05f0bdb declared and installed AssociatedOrderGradedRing and Associat
 
 Versions:
  2012.02.29
+
+ExamplesForHomalg: d98920c added cyclically presented module C to Coupling.g
+
+Versions:
+ 2011.12.15
