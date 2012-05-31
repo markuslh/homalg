@@ -83,3 +83,9 @@ k-Points: ee8714b fixed a bug in IdealOfCoefficients for morphisms
 Versions:
 2011.06.23 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LocalizeRingForHomalg: b83aa35 use standard banner
+
+Versions:
+2011.04.26 which is Markus' version
+2012.03.10 which is Mohamed's version
