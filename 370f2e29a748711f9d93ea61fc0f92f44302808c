@@ -7,3 +7,8 @@ AbelianSystems: cd854e8 renamed Hull* -> Covering* (comply with homalg v2011.07.
 Versions:
 2011.06.20 which is Alban's version
 2011.07.28 which is Mohamed's version
+
+alexander: ec55f49 use the new manual style sheet
+
+Versions:
+ 2011.06.29
