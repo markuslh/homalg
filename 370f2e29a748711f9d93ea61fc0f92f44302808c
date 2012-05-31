@@ -77,3 +77,9 @@ Versions:
 jets: 6e06668 updated version
 
 Versions:
+
+k-Points: ee8714b fixed a bug in IdealOfCoefficients for morphisms
+
+Versions:
+2011.06.23 which is Mohamed's version
+2011.06.01 which is Alban's version
