@@ -143,3 +143,11 @@ SimplicialObjects: 0f6df12 declared IsSimplicialSet(Rep) if unbound (conflicts w
 
 Versions:
  2011.06.29
+
+SystemTheory: 54ed474 interchange view and display lines for rings
+
+Versions:
+2011.06.17 which is Alban's version
+2011.06.14 which is Markus's version
+2011.08.10 which is Mohamed's version
+2011.06.01 which is Thomas's version
