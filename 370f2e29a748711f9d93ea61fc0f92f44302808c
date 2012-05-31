@@ -17,3 +17,8 @@ Conley: 0c44def interchange view and display lines for rings
 
 Versions:
  2011.08.10
+
+crypto: 1c3610f - added Michael's example - got rid of the VERSION file (dependency)
+
+Versions:
+ 2010.11.05
