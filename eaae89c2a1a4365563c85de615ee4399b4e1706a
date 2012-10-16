@@ -22,3 +22,8 @@ ExamplesForHomalg/: 16900d8 two to comply with the new GAPDoc testing methods
 
 Versions:
  2012.05.31
+
+Gauss/: 494bc88 comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.09.21
