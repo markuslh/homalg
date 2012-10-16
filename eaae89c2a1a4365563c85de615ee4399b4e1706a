@@ -17,3 +17,8 @@ D-Modules/: 7df6283 comply with the new GAPDoc testing methods
 
 Versions:
  2012.06.28
+
+ExamplesForHomalg/: 16900d8 two to comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.05.31
