@@ -7,3 +7,8 @@ AbelianSystems/: 2403e59 increased assertion levels by two to comply with the ne
 Versions:
 2011.06.20 which is Alban's version
 2012.09.21 which is Mohamed's version
+
+AutoDoc/: 3eb4f21 modified gitignore.
+
+Versions:
+2012.10.01 which is Sebas' version
