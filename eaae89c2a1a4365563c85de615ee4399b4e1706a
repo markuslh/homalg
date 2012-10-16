@@ -75,3 +75,9 @@ Versions:
 LetterPlace/:
 
 Versions:
+
+LocalizeRingForHomalg/: b4206ae increased assertion levels by two to comply with the new GAPDoc testing methods
+
+Versions:
+2011.04.26 which is Markus' version
+2012.09.21 which is Mohamed's version
