@@ -477,6 +477,8 @@ InstallMethod( IsomorphismOfFiltration,
     
     SetIsIsomorphism( alpha, true );
     
+    UpdateObjectsByMorphism( alpha );
+
     return alpha;
     
 end );
